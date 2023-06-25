@@ -1,21 +1,19 @@
-Amazon Clone
+Amazon Clone:
 This project is an Amazon clone built using React and Firebase, providing users with a seamless shopping experience and transaction tracking. It includes features such as account login, product listing, cart functionality, real payments, and order history pages.
 
-Technologies Used
+Technologies Used:
 React: A JavaScript library for building user interfaces.
 Firebase: A comprehensive development platform that enables the development of web and mobile applications.
-Features
+Stripe: Online payment processing tool
+
+Features:
 Account Login: Users can create an account or log in using their existing credentials. This allows them to access personalized features and securely store their information.
-
 Product Listing: The application displays a wide range of products in an organized manner. Users can browse through various categories, search for specific items, and view detailed product information.
-
 Cart Functionality: Users can add products to their cart, adjust quantities, and remove items. The cart is updated in real-time, providing a dynamic shopping experience.
-
 Real Payments: The application integrates with a payment gateway to enable secure and seamless transactions. Users can enter their payment details and complete the purchase process.
-
 Order History Pages: Users have access to their order history, allowing them to track their purchases, view order details, and monitor the status of their deliveries.
 
-Installation
+Installation:
 To run the Amazon Clone project locally, follow these steps:
 1) Clone the repository: git clone https://github.com/your-username/amazon-clone.git
 2) Navigate to the project directory: cd amazon-clone
@@ -33,7 +31,7 @@ To run the Amazon Clone project locally, follow these steps:
 5) Start the development server: npm start
 6) Open your web browser and visit http://localhost:3000 to see the application.
 
-Usage
+Usage:
 Once the project is up and running, you can:
 
 Create a new account or log in with your existing credentials.
