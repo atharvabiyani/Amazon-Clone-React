@@ -15,7 +15,7 @@ Order History Pages: Users have access to their order history, allowing them to 
 
 Installation:
 To run the Amazon Clone project locally, follow these steps:
-1) Clone the repository: git clone https://github.com/atharvabiyani/amazon-clone.git
+1) Clone the repository
 2) Navigate to the project directory: cd amazon-clone
 3) Install the dependencies: npm install
 4) Configure Firebase:
