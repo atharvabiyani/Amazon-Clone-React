@@ -1,4 +1,4 @@
-Amazon Clone:
+##Amazon Clone:
 This project is an Amazon clone built using React and Firebase, providing users with a seamless shopping experience and transaction tracking. It includes features such as account login, product listing, cart functionality, real payments, and order history pages.
 
 Technologies Used:
