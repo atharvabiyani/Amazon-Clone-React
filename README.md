@@ -53,4 +53,4 @@ This project is an Amazon clone built using React and Firebase, providing users 
 
 
 <h1>Link to Deployed Website (Not SSL Certified)</h1>
-<h2>https://clone-24f04.web.app/orders</h2>
+<h2>https://clone-24f04.web.app/</h2>
