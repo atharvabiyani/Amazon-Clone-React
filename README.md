@@ -1,8 +1,19 @@
-<h1>Drop It 🗳</h1>
+<h1>Amazon Clone 🗳</h1>
+<img src="https://media.tenor.com/i3WyuxE4CQYAAAAC/amazon-corgi.gif">
 
-##Amazon Clone:
 This project is an Amazon clone built using React and Firebase, providing users with a seamless shopping experience and transaction tracking. It includes features such as account login, product listing, cart functionality, real payments, and order history pages.
 
+<h1>Tech Stack 💼</h1>
+- Written in: JavaScript, HTML, CSS
+- Authentification: Firebase Authentication
+- Frontend: React.js
+- Backend: Firebase & Stripe
+- Routing: React-Router-Dom
+
+<h1>Visuals ✨</h1>
+<h2>Sign Up View</h2>
+<img src='file:///Users/atharva/Desktop/Screen%20Shot%202023-07-26%20at%2010.43.26%20PM.png'>
+Users can start by clicking create account where they will be asked to input their username, email address, password, and phone number.
 Technologies Used:
 React: A JavaScript library for building user interfaces.
 Firebase: A comprehensive development platform that enables the development of web and mobile applications.
