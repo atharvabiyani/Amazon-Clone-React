@@ -1,7 +1,7 @@
 <h1>Amazon Clone 🗳</h1>
 <img src="https://media.tenor.com/i3WyuxE4CQYAAAAC/amazon-corgi.gif">
 
-This project is an Amazon clone built using React and Firebase, providing users with a seamless shopping experience and transaction tracking. It includes features such as account login, product listing, cart functionality, and real payments
+This project is an Amazon clone built using React and Firebase, providing users with a seamless shopping experience and transaction tracking. It includes features such as account login, product listing, cart functionality, and real payments.
 
 <h1>Tech Stack 💼</h1>
 
