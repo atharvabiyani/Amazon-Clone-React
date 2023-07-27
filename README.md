@@ -1,7 +1,7 @@
 <h1>Amazon Clone 🗳</h1>
 <img src="https://media.tenor.com/i3WyuxE4CQYAAAAC/amazon-corgi.gif">
 
-This project is an Amazon clone built using React and Firebase, providing users with a seamless shopping experience and transaction tracking. It includes features such as account login, product listing, cart functionality, real payments, and order history pages.
+This project is an Amazon clone built using React and Firebase, providing users with a seamless shopping experience and transaction tracking. It includes features such as account login, product listing, cart functionality, and real payments
 
 <h1>Tech Stack 💼</h1>
 
@@ -11,50 +11,46 @@ This project is an Amazon clone built using React and Firebase, providing users 
   
 - Frontend: React.js
   
-- Backend: Firebase & Stripe
+- Backend: Firebase & Stripe (online payment processing tool)
   
 - Routing: React-Router-Dom
 
 <h1>Visuals ✨</h1>
 <h2>Sign Up View</h2>
-![Sign In View](./Screenshots/Sign In Page.png)
+<img src="/Sign In Page.png" alt="Sign In Page Screenshot">
 
-Users can start by clicking create account where they will be asked to input their username, email address, password, and phone number.
-Technologies Used:
-React: A JavaScript library for building user interfaces.
-Firebase: A comprehensive development platform that enables the development of web and mobile applications.
-Stripe: Online payment processing tool
+^ Account Login: Users can create an account or log in using their existing credentials. This allows them to access personalized features and securely store their information.
 
-Features:
-Account Login: Users can create an account or log in using their existing credentials. This allows them to access personalized features and securely store their information.
-Product Listing: The application displays a wide range of products in an organized manner. Users can browse through various categories, search for specific items, and view detailed product information.
-Cart Functionality: Users can add products to their cart, adjust quantities, and remove items. The cart is updated in real-time, providing a dynamic shopping experience.
-Real Payments: The application integrates with a payment gateway to enable secure and seamless transactions. Users can enter their payment details and complete the purchase process.
-Order History Pages: Users have access to their order history, allowing them to track their purchases, view order details, and monitor the status of their deliveries.
+<h2>Main Home Page</h2>
+<img src="/Main Home Page.png" alt="Main Home Page Screenshot">
 
-Installation:
-To run the Amazon Clone project locally, follow these steps:
+^ Product Listing: The application displays a wide range of products in an organized manner. Users can browse through various categories, search for specific items, and view detailed product information.
+
+<h2>Cart Page</h2>
+<img src="/Cart Page.png" alt="Cart Page Screenshot">
+
+^ Cart Functionality: Users can add products to their cart, adjust quantities, and remove items. The cart is updated in real-time, providing a dynamic shopping experience.
+
+<h2>Checkout Page</h2>
+<img src="/Checkout Page.png" alt="Checkout Page Screenshot">
+
+^ Real Payments: The application integrates with a payment gateway to enable secure and seamless transactions. Users can enter their payment details and complete the purchase process.
+
+
+<h1>Installation ⚙️ </h1>
+
 1) Clone the repository
+
 2) Navigate to the project directory: cd amazon-clone
+
 3) Install the dependencies: npm install
-4) Configure Firebase:
- - Create a new Firebase project on the Firebase Console.
- - Obtain your Firebase configuration credentials (API Key, Auth Domain, Project ID, etc.).
- - Create a .env file in the project's root directory and add your Firebase configuration:
-      REACT_APP_API_KEY=your-api-key
-      REACT_APP_AUTH_DOMAIN=your-auth-domain
-      REACT_APP_PROJECT_ID=your-project-id
-      REACT_APP_STORAGE_BUCKET=your-storage-bucket
-      REACT_APP_MESSAGING_SENDER_ID=your-messaging-sender-id
-      REACT_APP_APP_ID=your-app-id
+
+4) Configure Firebase: Create a new Firebase project on the Firebase Console.
+
 5) Start the development server: npm start
+
 6) Open your web browser and visit http://localhost:3000 to see the application.
 
-Usage:
-Once the project is up and running, you can:
 
-Create a new account or log in with your existing credentials.
-Browse through the available products, filter by category, and search for specific items.
-Add products to your cart, adjust quantities, and remove items as needed.
-Proceed to the checkout process and enter your payment details.
-View your order history and track the status of your deliveries.
+<h1>Link to Deployed Website</h1>
+<h2>https://clone-24f04.web.app/orders</h2>
