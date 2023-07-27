@@ -52,5 +52,5 @@ This project is an Amazon clone built using React and Firebase, providing users 
 6) Open your web browser and visit http://localhost:3000 to see the application.
 
 
-<h1>Link to Deployed Website</h1>
+<h1>Link to Deployed Website (Not SSL Certified)</h1>
 <h2>https://clone-24f04.web.app/orders</h2>
