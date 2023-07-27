@@ -17,7 +17,7 @@ This project is an Amazon clone built using React and Firebase, providing users 
 
 <h1>Visuals ✨</h1>
 <h2>Sign Up View</h2>
-![Screen Shot 2023-07-26 at 10 43 26 PM](https://github.com/atharvabiyani/Amazon-Clone-React/assets/125630245/f80f4142-faf0-4b49-826f-ccaea42ba0f3)
+![Sign In View](./Screenshots/Sign In Page.png)
 
 Users can start by clicking create account where they will be asked to input their username, email address, password, and phone number.
 Technologies Used:
